@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication1.Default" %>
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
 <!DOCTYPE html>
 
@@ -9,8 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    TESTOVACÍ strÁnka 2
-        pridani neceho
+    TEST
     </div>
     </form>
 </body>
