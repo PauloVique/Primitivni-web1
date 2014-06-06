@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     TEST - pridani txc
+        <% tady je chyba! %>
     </div>
     </form>
 </body>
